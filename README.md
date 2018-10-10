@@ -1,0 +1,2 @@
+# Data-stucture-
+linked list
