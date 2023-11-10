@@ -19,7 +19,7 @@ public class charStackHw {
 			System.out.println("this stack is already full");
 		}else {
 		
-		top++;
+		top--;
 		StcArray[top] = j;	
 		}
 	}
