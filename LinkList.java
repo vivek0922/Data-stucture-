@@ -1,6 +1,6 @@
 package Ds_Linklist;
 
-public class Node {
+public class Nodes {
 	int data;
 	Node next= null;
 	
